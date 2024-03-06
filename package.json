@@ -1,0 +1,25 @@
+{
+  "name": "coffeeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonllzhang/coffeeshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonllzhang/coffeeshop/issues"
+  },
+  "homepage": "https://github.com/leonllzhang/coffeeshop#readme",
+  "dependencies": {
+    "@fastify/mysql": "^4.2.0",
+    "fastify": "^4.26.2",
+    "fastify-plugin": "^4.5.1"
+  }
+}
